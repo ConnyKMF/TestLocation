@@ -234,6 +234,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -438,7 +439,7 @@
 				DEVELOPMENT_TEAM = ZT38DY35DB;
 				INFOPLIST_FILE = simulatorLocation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.enhance.simulatorLocation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.enhance.simulator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
